@@ -1,4 +1,4 @@
-# CSC450: Programming III — Portfolio Project (Part 2)
+## CSC450: Programming III — Portfolio Project (Part 2)
 
 **Student Name:** Ryley Carlson
 **Course:** CSC450 - Programming III (Module 8)
